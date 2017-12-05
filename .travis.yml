@@ -3,5 +3,4 @@ install:
  - npm install
  - brew install watchman
 script:
- - npm run test --watchAll
- - q
+ - npm run test
